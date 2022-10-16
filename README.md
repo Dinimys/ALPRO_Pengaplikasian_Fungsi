@@ -13,4 +13,4 @@ Dan...
 
 Kedua program tersebut sudah dikonversi sehingga menerapkan konsep fungsi.
 
-Penerapannya dapat dilihat dalam file Keliling Persegi Panjang Fungsi.c dan Permukaan&Volume Kubus Fungsi.c
+Penerapannya dapat dilihat dalam file yang telah saya upload
