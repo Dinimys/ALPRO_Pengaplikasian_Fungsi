@@ -13,4 +13,4 @@ Dan...
 
 Kedua program tersebut sudah dikonversi sehingga menerapkan konsep fungsi.
 
-Penerapannya dapat dilihat dalam file yang telah saya upload
+Penerapannya dapat dilihat pada file diatas
